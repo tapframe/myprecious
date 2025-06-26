@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.416.0](https://github.com/elfhosted/myprecious/compare/v1.415.0...v1.416.0) (2025-06-26)
+
+
+### Features
+
+* **app:** update ghcr.io/elfhosted/bluesky-pds docker tag to v0.4.153 ([c78c5bf](https://github.com/elfhosted/myprecious/commit/c78c5bf9b6348795c1ef8cda87da3af658ff1ba0))
+* **app:** update ghcr.io/elfhosted/codeserver docker tag to v4.101.2 ([7f58b14](https://github.com/elfhosted/myprecious/commit/7f58b14bea1c3fa94414c57b317983113d11cb86))
+* **app:** update ghcr.io/elfhosted/jackett docker tag to v0.22.2056 ([8030db8](https://github.com/elfhosted/myprecious/commit/8030db85c2451f958fde2c1777ca621b0f2a12f3))
+* **app:** update ghcr.io/elfhosted/webstreamr docker tag to v0.32.3 ([bddc3bd](https://github.com/elfhosted/myprecious/commit/bddc3bd0ddb944511b7c482e7afb48ab5d8c10e1))
+
+
+### Bug Fixes
+
+* **app:** update ghcr.io/elfhosted/webstreamr:v0.32.3 docker digest to 6284fd6 ([f62b62b](https://github.com/elfhosted/myprecious/commit/f62b62be5655466fca833e05c96d7cdff4cf33ae))
+* Remove shareProcessNamespace from Plex pods (failed attempt to expose transcode-killer logs to user) ([7c48a60](https://github.com/elfhosted/myprecious/commit/7c48a60c4e506ecb37bc4429d01746b76f95c50d))
+
 ## [1.415.0](https://github.com/elfhosted/myprecious/compare/v1.414.0...v1.415.0) (2025-06-25)
 
 
